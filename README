@@ -1,0 +1,39 @@
+STEFAN Iulia-Renata 
+323CB AN2
+
+DataBase:
+	Retine nodurile sub forma unui vector(ArrayList) 
+	Retine si entitatile
+
+Node:
+	Este alcatuit dintr-un vector de instante.
+
+Instance: 
+	Este alcatuit dintr-un vector de obiecte de tip Value.
+
+Value:
+	Este o clasa care defineste un obiect ce poate sa retine oricare  
+	dintre cele 3 tipuri de data.
+
+Taskuri:
+
+1.CREATE:
+	Cream entitati in care vom retine atributele cu tipurile lor.
+2.INSERT:
+	Cream un vector de valori ale atributelor cu care cream instanta.
+	Inseram instanta in rf noduri obtinute prin sortarea unei copii
+	a vectorului de noduri.
+3.DELETE:
+	Cautam instanta in noduri si o eliminam daca exista.
+4.UPDATE:
+	Construim lista de atribute ce trebuie modificate.
+	Cautam instanta in fiecare nod.
+	Modificam valorile
+5.GET:
+	Cautam o instanta si afisam nodurile in care se afla 
+	plus continutul istantei.
+6.SNAPSHOTDB:
+	Afisam toate nodurile bazei de date.
+7.CLEANUP:	
+	Stergem toate instantele care au un timestamp mai mic de cat timpul 
+	primit ca input.

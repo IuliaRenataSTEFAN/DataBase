@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"DataBase"},{"p":"<Unnamed>","l":"Entity"},{"p":"<Unnamed>","l":"Instance"},{"p":"<Unnamed>","l":"Node"},{"p":"<Unnamed>","l":"NodeComparator"},{"p":"<Unnamed>","l":"Tema2"},{"p":"<Unnamed>","l":"Value"}]
